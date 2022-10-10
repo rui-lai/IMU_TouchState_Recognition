@@ -1,0 +1,17 @@
+
+f	java:S1170"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰óÛ
+f	java:S1170"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰óÛ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ƒ¸ƒı˚ˇˇˇˇ
+T
+java:S30346">Prevent "int" promotion by adding "& 0xff" to this expression.(Ú˛íæ
+S
+java:S3034:">Prevent "int" promotion by adding "& 0xff" to this expression.(È Ù&
+Q	java:S125"<This block of commented-out lines of code should be removed.(˛ÃÊŒ
+V	java:S125$"<This block of commented-out lines of code should be removed.(Ã¡‰≤˘ˇˇˇˇ
+V	java:S1254"<This block of commented-out lines of code should be removed.(Œ∏∏…˚ˇˇˇˇ
+V	java:S125?"<This block of commented-out lines of code should be removed.(‹©åæ˚ˇˇˇˇ
+V	java:S125~"<This block of commented-out lines of code should be removed.(ò˝⁄Â¯ˇˇˇˇ
+W	java:S125‡"<This block of commented-out lines of code should be removed.(£Ãò‡¯ˇˇˇˇ
+W	java:S125È"<This block of commented-out lines of code should be removed.(Â“ìÖ˚ˇˇˇˇ
+H
+java:S1128"-Remove this unused import 'android.util.Log'.(‘¶ÿ≤¯ˇˇˇˇ

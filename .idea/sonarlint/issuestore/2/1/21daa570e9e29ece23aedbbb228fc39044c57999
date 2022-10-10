@@ -1,0 +1,114 @@
+
+p
+java:S2293Ÿ"YReplace the type specification in this constructor call with the diamond operator ("<>").(ğí×ÿ
+l	java:S117Å"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ü¿˜ùÿÿÿÿ
+b
+java:S1301Ğ"KReplace this "switch" statement by "if" statements to increase readability.(ÒÔ½ò
+m
+java:S1104Z"WMake gestureReco a static final constant or non-public and provide accessors if needed.(éÂ
+G
+java:S1444Z"1Make this "public static gestureReco" field final(éÂ
+X
+java:S4973·"<Strings and Boxed types should be compared using "equals()".(Ç½ªéøÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.( Ôî«
+e
+java:S2095Ş"IUse try-with-resources or close this "InputStream" in a "finally" clause.(Ååıÿÿÿÿ
+e
+java:S2095ß"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(…Éùµ
+k	java:S116."VRename this field "DEVICE_UUID" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£µÁŒ
+h	java:S116/"TRename this field "CHAR_UUID" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õï‡e
+m	java:S1160"SRename this field "AccelLSB" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ºàœ¬üÿÿÿÿ
+o	java:S1161"URename this field "AngularLSB" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°ÅäÍıÿÿÿÿ
+k	java:S1162"VRename this field "Module_Name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ê£Ã
+p	java:S1166"VRename this field "DeviceValue" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§ÈÍÚúÿÿÿÿ
+<
+java:S11700"!Make this final field static too.(ºàœ¬üÿÿÿÿ
+<
+java:S11701"!Make this final field static too.(°ÅäÍıÿÿÿÿ
+7
+java:S11702"!Make this final field static too.(ê£Ã
+<
+java:S11703"!Make this final field static too.(Í¥îøÿÿÿÿ
+<
+java:S11704"!Make this final field static too.(İÈ±Ğşÿÿÿÿ
+
+java:S1186—"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ùê‹®ùÿÿÿÿ
+V	java:S125V"<This block of commented-out lines of code should be removed.(¯àƒ¡ıÿÿÿÿ
+h
+java:S3252a"RUse static access with "android.bluetooth.BluetoothProfile" for "STATE_CONNECTED".(¸š¤ä
+p
+java:S3252j"UUse static access with "android.bluetooth.BluetoothProfile" for "STATE_DISCONNECTED".(Š×Ï¸úÿÿÿÿ
+2
+java:S3626‡"Remove this redundant jump.(ûÁİ…
+D
+java:S1185 "(Remove this method to simply inherit it.(Ç×º¯ûÿÿÿÿ
+D
+java:S1185¦"(Remove this method to simply inherit it.(Ø¯…¬úÿÿÿÿ
+W	java:S125¯"<This block of commented-out lines of code should be removed.(²Ïà…ùÿÿÿÿ
+W	java:S125³"<This block of commented-out lines of code should be removed.(¶Ø«¢úÿÿÿÿ
+W	java:S125¾"<This block of commented-out lines of code should be removed.(û…—úÿÿÿÿ
+W	java:S125Ã"<This block of commented-out lines of code should be removed.(úğ›‡üÿÿÿÿ
+8	java:S131Ğ""Add a default case to this switch.(ÒÔ½ò
+R	java:S125å"<This block of commented-out lines of code should be removed.(ÌÒÿà
+R	java:S125ğ"<This block of commented-out lines of code should be removed.(ÌÒÿà
+R	java:S125ú"<This block of commented-out lines of code should be removed.(˜›§©
+D
+java:S1185‰"(Remove this method to simply inherit it.( Í„èüÿÿÿÿ
+W	java:S125 "<This block of commented-out lines of code should be removed.(è’Îûÿÿÿÿ
+?
+java:S1185­"(Remove this method to simply inherit it.(ªĞªÄ
+D
+java:S1185²"(Remove this method to simply inherit it.(İßéàúÿÿÿÿ
+Q
+java:S1117Â":Rename "module" which hides the field declared at line 60.(á¯¯Ü
+Z
+java:S1155ñ">Use isEmpty() to check whether the collection is empty or not.(»¯İÊøÿÿÿÿ
+i	java:S100ú"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñµóøúÿÿÿÿ
+U
+java:S1155ü">Use isEmpty() to check whether the collection is empty or not.(×ğ£ú
+W	java:S125–"<This block of commented-out lines of code should be removed.(ÉÅŸ üÿÿÿÿ
+W	java:S125š"<This block of commented-out lines of code should be removed.(ÉÅŸ üÿÿÿÿ
+R	java:S125¶"<This block of commented-out lines of code should be removed.(•‚Â·
+i	java:S100Í"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÚíîĞûÿÿÿÿ
+Q	java:S125Î"<This block of commented-out lines of code should be removed.(´”%
+d	java:S100ÿ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µÑÔÎ
+i	java:S100‚"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(öü½ÿùÿÿÿÿ
+d	java:S100…"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚íòê
+R
+java:S2696†"6Make the enclosing method "static" or remove this set.(†¬¨™ÿÿÿÿÿ
+S
+java:S1128"8Remove this unused import 'android.app.Instrumentation'.(Ò×‹Ãûÿÿÿÿ
+S
+java:S1128"8Remove this unused import 'android.graphics.ColorSpace'.(ä©ÅÉøÿÿÿÿ
+M
+java:S1128"2Remove this unused import 'android.view.KeyEvent'.(ôÊÃ–úÿÿÿÿ
+L
+java:S1128"1Remove this unused import 'android.widget.Toast'.(©›ïÍúÿÿÿÿ
+^
+java:S1128"HRemove this unused import 'com.example.firstapp.Utilities.KalManFilter'.(‘ğø©
+Y
+java:S1128">Remove this unused import 'com.google.common.primitives.Ints'.(í—½¶şÿÿÿÿ
+M
+java:S1128$"2Remove this unused import 'java.net.ServerSocket'.(ĞúÙÿÿÿÿÿ
+H
+java:S1128&"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ
+Z
+java:S3398¶">Move this method into the anonymous class declared at line 92.(×ıÛşÿÿÿÿ
+Z
+java:S3398‡">Move this method into the anonymous class declared at line 92.(İ¤×Åûÿÿÿÿ
+Z
+java:S3398ú">Move this method into the anonymous class declared at line 92.(ñµóøúÿÿÿÿ
+Z
+java:S3398ğ">Move this method into the anonymous class declared at line 92.(äÂŞùÿÿÿÿ
+U
+java:S3398“">Move this method into the anonymous class declared at line 92.(ë»ñß
+A
+java:S1068J"+Remove this unused "sstatez" private field.(é²ìÃ
+C
+java:S1068N"-Remove this unused "sampleNum" private field.(ğØß’
+E
+java:S1068Q"*Remove this unused "countz" private field.( É”®ùÿÿÿÿ
+I
+java:S1068W".Remove this unused "actualTime" private field.(½Şéüÿÿÿÿ
+D
+java:S1068X".Remove this unused "lastUpdate" private field.(Ù¥ïÖ

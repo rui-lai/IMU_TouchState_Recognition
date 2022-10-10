@@ -1,0 +1,6 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ø»¾îþÿÿÿÿ
+^
+java:S1226:"HIntroduce a new variable instead of reusing the parameter "convertView".(äÚòî
+œ
+java:S1186L"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¹Æº×þÿÿÿÿ

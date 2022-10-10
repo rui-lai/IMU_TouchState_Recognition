@@ -1,0 +1,146 @@
+
+F
+java:S3740…"/Provide the parametrized type for this generic.(Ş­¯Œ
+u
+java:S2293—"YReplace the type specification in this constructor call with the diamond operator ("<>").(»ëÃ¨ûÿÿÿÿ
+K
+java:S1066Â"/Merge this if statement with the enclosing one.(ºĞ ™ÿÿÿÿÿ
+K
+java:S1066À"/Merge this if statement with the enclosing one.(ŠŞÜçùÿÿÿÿ
+?
+java:S1604ß"(Make this anonymous inner class a lambda(…ªÙë
+D
+java:S1604‰"(Make this anonymous inner class a lambda(‡”Øúÿÿÿÿ
+D
+java:S1604«"(Make this anonymous inner class a lambda(Şğ¿¯ùÿÿÿÿ
+D
+java:S1604±"(Make this anonymous inner class a lambda(Ş¬åõùÿÿÿÿ
+>
+java:S1604Á"(Make this anonymous inner class a lambda(Î©éc
+D
+java:S1604§"(Make this anonymous inner class a lambda(Æ¸Âõıÿÿÿÿ
+?
+java:S1604›"(Make this anonymous inner class a lambda(éáÂ—
+g
+java:S1301Ì"KReplace this "switch" statement by "if" statements to increase readability.(×ö³–úÿÿÿÿ
+b
+java:S1301”"KReplace this "switch" statement by "if" statements to increase readability.(•’˜Ç
+{
+java:S1488­"dImmediately return this expression instead of assigning it to the temporary variable "heightPixels".(˜‚
+
+java:S1488µ"cImmediately return this expression instead of assigning it to the temporary variable "widthPixels".(¬ã¢ıÿÿÿÿ
+s
+java:S1104"XMake targetDevice a static final constant or non-public and provide accessors if needed.(í¸Ëêúÿÿÿÿ
+{
+java:S1104€"_Make DATA_RECEIVE_ACTION a static final constant or non-public and provide accessors if needed.(æ½òúøÿÿÿÿ
+s
+java:S1104"\Make STATUS_RECOGNIZE a static final constant or non-public and provide accessors if needed.(ÆøĞ
+M
+java:S1444"2Make this "public static targetDevice" field final(í¸Ëêúÿÿÿÿ
+U
+java:S1444€"9Make this "public static DATA_RECEIVE_ACTION" field final(æ½òúøÿÿÿÿ
+M
+java:S1444"6Make this "public static STATUS_RECOGNIZE" field final(ÆøĞ
+n	java:S116W"TRename this field "DATA_SAVE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ü²†Öøÿÿÿÿ
+q	java:S116X"\Rename this field "REQUEST_ENABLE_BT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½áÓ°
+‚	java:S116Y"mRename this field "PERMISSION_REQUEST_COARSE_LOCATION" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÖØì¥
+h	java:S116Z"NRename this field "TAG" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ûõ³øùÿÿÿÿ
+p	java:S116_"VRename this field "DeviceValue" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§ÈÍÚúÿÿÿÿ
+f	java:S116y"QRename this field "Export" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢²§×
+z
+java:S3008€"^Rename this field "DATA_RECEIVE_ACTION" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æ½òúøÿÿÿÿ
+r
+java:S3008"[Rename this field "STATUS_RECOGNIZE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÆøĞ
+<
+java:S1170W"!Make this final field static too.(Ü²†Öøÿÿÿÿ
+7
+java:S1170X"!Make this final field static too.(½áÓ°
+7
+java:S1170Y"!Make this final field static too.(ÖØì¥
+<
+java:S1170Z"!Make this final field static too.(ûõ³øùÿÿÿÿ
+7
+java:S1170["!Make this final field static too.(Â Ş
+f
+java:S1845y"PRename field "Export" to prevent any misunderstanding/clash with field "export".(¢²§×
+i
+java:S1450v"SRemove the "apps" field and declare it as a local variable in the relevant methods.(Åİ³‰
+r
+java:S1450r"\Remove the "gestureSwitch" field and declare it as a local variable in the relevant methods.(Î²ª
+r
+java:S1450q"WRemove the "listView" field and declare it as a local variable in the relevant methods.(¯¤½ñûÿÿÿÿ
+q
+java:S1450ˆ"ZRemove the "mScanFilter" field and declare it as a local variable in the relevant methods.(»šî¯
+u
+java:S1450‹"YRemove the "openSocket" field and declare it as a local variable in the relevant methods.(ÖÆÁÚúÿÿÿÿ
+k
+java:S1450g"VRemove the "setting" field and declare it as a local variable in the relevant methods.(âà®m
+r
+java:S1450s"\Remove the "socketService" field and declare it as a local variable in the relevant methods.(ª°ŠÁ
+
+java:S1186š"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¹ùÇ¡üÿÿÿÿ
+M
+java:S2696£"6Make the enclosing method "static" or remove this set.(„§±ß
+M
+java:S2696Ä"6Make the enclosing method "static" or remove this set.(ÓÂ‚Û
+R	java:S125Í"<This block of commented-out lines of code should be removed.(æ„ëû
+W	java:S125İ"<This block of commented-out lines of code should be removed.(Ùâ åıÿÿÿÿ
+W	java:S125í"<This block of commented-out lines of code should be removed.(úØ·Áøÿÿÿÿ
+f
+java:S1874Ê"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(Ó»×¶şÿÿÿÿ
+=	java:S131Ì""Add a default case to this switch.(×ö³–úÿÿÿÿ
+?	java:S108Ñ")Either remove or fill this block of code.(À¢Íô
+a
+java:S1874Û"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(ŸŒ¹Ñ
+N
+java:S1135Ü"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ
+=	java:S131ì""Add a default case to this switch.(×“¾ñùÿÿÿÿ
+Z
+java:S1155ƒ">Use isEmpty() to check whether the collection is empty or not.(Ø½ü’ûÿÿÿÿ
+W	java:S125¼"<This block of commented-out lines of code should be removed.(ä£Øèÿÿÿÿÿ
+Z
+java:S1874É">Remove this use of "startActivityForResult"; it is deprecated.(øÜâ€ùÿÿÿÿ
+R	java:S125á"<This block of commented-out lines of code should be removed.(²™ãø
+d	java:S100÷"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡Éœˆ
+i
+java:S3776÷"RRefactor this method to reduce its Cognitive Complexity from 30 to the 15 allowed.(‡Éœˆ
+Q	java:S125å"<This block of commented-out lines of code should be removed.(ú—|
+Z
+java:S1854ò">Remove this useless assignment to local variable "disconnect".(œ¼½üÿÿÿÿ
+K
+java:S1481ò"/Remove this unused "disconnect" local variable.(œ¼½üÿÿÿÿ
+W	java:S125"<This block of commented-out lines of code should be removed.(ù²ºœúÿÿÿÿ
+«
+java:S1130"Remove the declaration of thrown exception 'com.opencsv.exceptions.CsvRequiredFieldEmptyException', as it cannot be thrown from method's body.(ìæöñûÿÿÿÿ
+©
+java:S1130"ŒRemove the declaration of thrown exception 'com.opencsv.exceptions.CsvDataTypeMismatchException', as it cannot be thrown from method's body.(ìæöñûÿÿÿÿ
+W	java:S125²"<This block of commented-out lines of code should be removed.(ÔŠ¤”şÿÿÿÿ
+W	java:S125Â"<This block of commented-out lines of code should be removed.(’“†‚üÿÿÿÿ
+R	java:S125Ï"<This block of commented-out lines of code should be removed.(ì¦ñ
+U
+java:S1155‚">Use isEmpty() to check whether the collection is empty or not.(ÅÖ¦
+Z
+java:S1874…"CRemove this use of "getExternalStorageDirectory"; it is deprecated.(Ìç¡Ğ
+]	java:S899"BDo something with the "boolean" value returned by "createNewFile".(Ğ’Íùÿÿÿÿ
+[	java:S899"@Do something with the "boolean" value returned by "setWritable".(ö¤ìÔşÿÿÿÿ
+R	java:S125¸"<This block of commented-out lines of code should be removed.(¾¾Ë¸
+W	java:S125å"<This block of commented-out lines of code should be removed.(£‘†ÿÿÿÿÿ
+W	java:S125÷"<This block of commented-out lines of code should be removed.(âÉ‰Ûûÿÿÿÿ
+d	java:S100‚"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Åº¢
+i
+java:S3776“"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(ãÜ›Ø
+8	java:S131”""Add a default case to this switch.(•’˜Ç
+M
+java:S2696–"6Make the enclosing method "static" or remove this set.(³‘É»
+V
+java:S3398"?Move this method into the anonymous class declared at line 181.(èéúŞ
+G
+java:S1068\",Remove this unused "authList" private field.(ÚàØùÿÿÿÿ
+A
+java:S1068i"+Remove this unused "initBLE" private field.(Ã¢°
+P
+java:S1144ª"4Remove this unused private "getWindowHeight" method.(Õ½Ùüÿÿÿÿÿ
+O
+java:S1144²"3Remove this unused private "getWindowWidth" method.(úé´Ûÿÿÿÿÿ
+C
+java:S1144‚",Remove this unused private "OpenApp" method.(Åº¢
